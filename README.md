@@ -13,9 +13,10 @@ It allows users to switch product colors and view details without JavaScript.
 HTML, CSS
 
 ## Live Demo
-https://adhitvora.github.io/product-color-selector-html-css/
+https://Adhitvora.github.io/product-color-selector-html-css/
 
 ## Developer
 Adhit Vora  
 Frontend Developer | Internship Project  
 India
+
